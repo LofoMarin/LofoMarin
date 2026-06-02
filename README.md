@@ -106,10 +106,6 @@ Software Engineer from **Universidad del Norte** (2021–2025) specializing in *
 <img src="https://github-readme-stats.vercel.app/api?username=LofoMarin&show_icons=true&theme=swift&hide_border=true&icon_color=F05138&title_color=F05138&text_color=333333&ring_color=F05138" height="180" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LofoMarin&layout=compact&theme=swift&hide_border=true&title_color=F05138&text_color=333333" height="180" alt="Top Languages" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LofoMarin&theme=swift&hide_border=true&ring=F05138&fire=F05138&currStreakLabel=F05138" height="180" alt="GitHub Streak" />
-
 
 </div>
 

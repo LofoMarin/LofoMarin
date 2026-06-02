@@ -1,19 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=32&duration=3000&pause=1000&color=F05138&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%8D%8E+Luis+Fernando+Mar%C3%ADn;Junior+iOS+Developer+%7C+Swift+%26+SwiftUI" alt="Typing SVG" />
-
-<br/>
-
-```swift
-let developer = iOSDeveloper(
-    name: "Luis Fernando Marín",
-    location: "Barranquilla, Colombia",
-    role: "Junior Developer – R&D @ 4G SAS Architecture",
-    education: "Software Engineering · Universidad del Norte",
-    focus: [.swift, .swiftUI, .appKit, .cleanArchitecture],
-    openTo: "Remote iOS Developer roles worldwide"
-)
-```
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=32&duration=3000&pause=1000&color=F05138&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Luis+Fernando+Mar%C3%ADn;Junior+iOS+Developer+%7C+Swift+%26+SwiftUI" alt="Typing SVG" />
 
 <br/>
 
@@ -123,9 +110,6 @@ Software Engineer from **Universidad del Norte** (2021–2025) specializing in *
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LofoMarin&theme=swift&hide_border=true&ring=F05138&fire=F05138&currStreakLabel=F05138" height="180" alt="GitHub Streak" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LofoMarin&theme=minimal&hide_border=true&color=F05138&line=F05138&point=333333&area=true&area_color=F05138" width="95%" alt="Activity Graph" />
 
 </div>
 
